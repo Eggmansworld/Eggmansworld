@@ -7,11 +7,11 @@ This account exists to **document, verify, and preserve** game software, data, a
 
 ## What lives here
 
-- 🗃️ **Datfiles & fixdats**  
+- 🗃️ **Datfiles and data collections**  
   XML/DAT ecosystems built for accuracy, auditability, and long-term maintenance.
 
 - 🕹️ **Arcade & PC-arcade preservation**  
-  Raw Thrills, Namco ES*, Taito Type X, Sega ALLS, Neowiz MUCA, LaserDisc systems, and other “it ran on a PC, but not *your* PC” platforms.
+  Raw Thrills, Namco ES*, Taito Type X, Sega ALLS, LaserDisc systems, and many, many other “it ran on a PC, but not *your* PC” platforms.
 
 - 🛠️ **Tooling & automation**  
   Python, PowerShell, and batch utilities for validation, normalization, hashing, and large-scale curation.
