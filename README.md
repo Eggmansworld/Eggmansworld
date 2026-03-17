@@ -52,6 +52,10 @@ Credit is intentional. Attribution matters.
 
 If you know something that isn’t written down yet, it probably belongs here.
 
+## Metadata Thieves
+
+There are malicious actors who are taking the content of these dats and passing it off as their own works. Some don't even bother to change the filenames, they just slap a tag at the end of the files and call it theirs. Some even charge money to "be their friend" through donations and such. Use your head and don't fall for their ploys. I cannot stop any of this from happening, but I can make sure everyone who visits here knows about it through this message.
+
 ## Support
 
 If these tools, dats, or archives save you time, consider supporting the work:
