@@ -14,7 +14,7 @@ This account exists to **document, verify, and preserve** game software, data, a
   Raw Thrills, Namco ES*, Taito Type X, Sega ALLS, LaserDisc systems, and many, many other “it ran on a PC, but not *your* PC” platforms.
 
 - 🛠️ **Tooling & automation**  
-  Python, PowerShell, and batch utilities for validation, normalization, hashing, and large-scale curation.
+  Python-based utilities for validation, normalization, hashing, and large-scale curation, shared freely with the preservation community. Standard disclaimer: Vibe coding utilized. Don't like it? Go somewhere else.
 
 - 📚 **Hardware notes & forensics**  
   Board IDs, storage formats, version strings, quirks, and the weird details that vanish first.
@@ -41,7 +41,7 @@ Pinned repositories highlight:
 - Active preservation efforts
 - Supporting tools and documentation
 
-Each repository contains its own README with scope, structure, and usage notes.
+Each repository contains its own README with scope, structure, and usage notes. Use of AI for readme's and documentation is used, posted after verifying accurate content.
 
 ---
 
@@ -50,15 +50,13 @@ Each repository contains its own README with scope, structure, and usage notes.
 This work builds on decades of operators, developers, collectors, and preservationists.
 Credit is intentional. Attribution matters.
 
-If you know something that isn’t written down yet, it probably belongs here.
-
 ## Metadata Thieves
 
-There are malicious actors who are taking the content of these dats and passing it off as their own works. Some don't even bother to change the filenames, they just slap a tag at the end of the files and call it theirs. Some even charge money to "be their friend" through donations and such. Use your head and don't fall for their ploys. I cannot stop any of this from happening, but I can make sure everyone who visits here knows about it through this message.
+There are malicious actors who are taking the content of these dats and passing it off as their own works. Some don't even bother to change the filenames, they just slap a tag at the end of the files and call it theirs. Some even charge money to "be their friend" through donations and such, hiding in various places like Telegram, Line, Discord and forums. Use your head and keep your money in your pocket. They're not your friend, and they certainly haven't done any work to deserve your money.
 
 ## Support
 
-If these tools, dats, or archives save you time, consider supporting the work:
+If these dats, tools or utilities help save you time, consider supporting the work:
 
 <a href="https://buymeacoffee.com/eggmansworld">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="45" alt="Buy Me a Coffee">
