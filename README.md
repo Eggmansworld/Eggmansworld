@@ -53,8 +53,15 @@ The **[TeknoParrot Game Notes](https://eggmansworld.github.io/TeknoParrot/)** pa
 live compatibility and setup reference for the TeknoParrot collection — searchable,
 filterable, and updated with every release.
 
-AI is used for README writing and documentation throughout. Content is verified before
-posting.
+---
+
+## A note on AI use
+
+AI tools are used in the production of this work — for coding assistance, documentation,
+and research. Every output is reviewed, tested, and verified before it's committed or
+published. AI doesn't determine what gets preserved or how it's classified; that judgment
+stays with me. What you see here reflects my own standards and decisions. The AI just
+helps me move faster.
 
 ---
 
