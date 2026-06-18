@@ -1,63 +1,85 @@
 # Digital preservation, arcade archaeology, and unapologetically large collections.
 <img width="1536" height="1024" alt="Eggmansworld_banner_1600x1066" src="https://github.com/user-attachments/assets/8c2aeb32-0a93-4661-b287-20c2845fc869" />
 
-This account exists to **document, verify, and preserve** game software, data, and hardware ecosystems that are actively disappearing — especially arcade, PC-based arcade, and hybrid platforms that never had a clean consumer afterlife.
+# Eggmansworld
+
+This account exists to document, verify, and preserve game software, data, and hardware
+ecosystems that are actively disappearing — arcade, PC-based arcade, and hybrid platforms
+that never had a clean consumer afterlife. If it ran in a cabinet, a back room, or a
+shipping container full of server blades, it probably belongs here.
 
 ---
 
 ## What lives here
 
-- 🗃️ **Datfiles and data collections**  
-  XML/DAT ecosystems built for accuracy, auditability, and long-term maintenance.
+**🗃️ Datfiles and data collections**
+XML/DAT ecosystems built for accuracy, auditability, and long-term maintenance. Every
+entry verified. Every version tracked.
 
-- 🕹️ **Arcade & PC-arcade preservation**  
-  Raw Thrills, Namco ES*, Taito Type X, Sega ALLS, LaserDisc systems, and many, many other “it ran on a PC, but not *your* PC” platforms.
+**🕹️ Arcade & PC-arcade preservation**
+Raw Thrills, Namco ES1/ES3, Taito Type X, Sega ALLS, LaserDisc systems, and the long
+tail of platforms that ran on PC hardware but were never meant to be yours. Arcade
+coverage is a primary focus.
 
-- 🛠️ **Tooling & automation**  
-  Python-based utilities for validation, normalization, hashing, and large-scale curation, shared freely with the preservation community. Standard disclaimer: Vibe coding utilized. Don't like it? Go somewhere else.
+**🛠️ Tooling & automation**
+Python-based utilities for validation, normalization, hashing, and large-scale curation —
+shared freely with the preservation community. AI-assisted development is used throughout
+and I make no apologies for it. Don't like it? The door's right there.
 
-- 📚 **Hardware notes & forensics**  
-  Board IDs, storage formats, version strings, quirks, and the weird details that vanish first.
+**📚 Hardware notes & forensics**
+Board IDs, storage formats, version strings, encryption quirks, and the small details that
+disappear first when nobody writes them down.
 
 ---
 
 ## Philosophy
 
-- Accuracy beats convenience  
-- Reproducibility beats aesthetics  
-- Nothing is “known” unless it’s verified  
-- Silent modifications are preservation failure  
+- Accuracy beats convenience
+- Reproducibility beats aesthetics
+- Nothing is "known" unless it's verified
+- Silent modifications are preservation failure
 
-If a file changes, it’s documented.  
-If a version exists, it’s tracked.  
-If something is uncertain, it’s labeled as such.
+If a file changes, it's documented. If a version exists, it's tracked. If something is
+uncertain, it's labeled as such. That's the whole job.
 
 ---
 
 ## Where to start
 
-Pinned repositories highlight:
-- Primary datfile projects
-- Active preservation efforts
-- Supporting tools and documentation
+Pinned repositories cover the primary datfile projects, active preservation efforts, and
+supporting tools. Each has its own README with scope, structure, and usage notes.
 
-Each repository contains its own README with scope, structure, and usage notes. Use of AI for readme's and documentation is used, posted after verifying accurate content.
+The **[TeknoParrot Game Notes](https://eggmansworld.github.io/TeknoParrot/)** page is a
+live compatibility and setup reference for the TeknoParrot collection — searchable,
+filterable, and updated with every release.
+
+AI is used for README writing and documentation throughout. Content is verified before
+posting.
 
 ---
 
 ## Community
 
-This work builds on decades of operators, developers, collectors, and preservationists.
-Credit is intentional. Attribution matters.
+This work builds on decades of effort by operators, developers, collectors, and
+preservationists who came before. Credit is intentional here. Attribution matters.
 
-## Metadata Thieves
+---
 
-There are malicious actors who are taking the content of these dats and passing it off as their own works. Some don't even bother to change the filenames, they just slap a tag at the end of the files and call it theirs. Some even charge money to "be their friend" through donations and such, hiding in various places like Telegram, Line, Discord and forums. Use your head and keep your money in your pocket. They're not your friend, and they certainly haven't done any work to deserve your money.
+## On metadata theft
+
+There are people taking the contents of these dats and passing them off as their own work.
+Some don't even change the filenames — they append a tag, call it theirs, and move on.
+Some charge money for the privilege of receiving stolen goods, lurking in Telegram groups,
+Discord servers, Line chats, and forums, cultivating the impression that they've done
+something worth paying for.
+
+They haven't. Keep your money. They're not your friend.
 
 ## Support
 
-If these dats, tools or utilities help save you time, consider supporting the work:
-
+If these dats, tools or utilities help save you time, consider supporting the work. I do
+not intend to keep this money for myself, and will donate it to various worthwhile 
+preservation organizations such as archive.org.  
 <a href="https://buymeacoffee.com/eggmansworld">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="45" alt="Buy Me a Coffee">
 </a>
